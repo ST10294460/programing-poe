@@ -1,0 +1,20 @@
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\Part 1.exe
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\Part 1.deps.json
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\Part 1.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\Part 1.dll
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\Part 1.pdb
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.csproj.Up2Date
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.dll
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\refint\Part 1.dll
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.pdb
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\Part 1.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\obj\Debug\net8.0\ref\Part 1.dll
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\lab_services_student\source\repos\Part 1\Part 1\bin\Debug\net8.0\Welcome.wav\Welcome.wav
